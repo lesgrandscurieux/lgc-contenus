@@ -3,6 +3,7 @@
   "concepts": [
     {
       "id": "platon-aristote",
+      "revision": 1,
       "date": "2026-11-04",
       "rubrique": "Philosophie",
       "accroche": "Êtes-vous plutôt Platon ou Aristote ?",
@@ -11,6 +12,7 @@
     },
     {
       "id": "sommeil",
+      "revision": 1,
       "date": "2026-11-05",
       "rubrique": "Sciences",
       "accroche": "Pourquoi dormons-nous ?",
