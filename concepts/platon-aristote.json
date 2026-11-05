@@ -1,0 +1,178 @@
+{
+  "id": "platon-aristote",
+  "date": "2026-11-04",
+  "rubrique": "Philosophie",
+  "accroche": "Êtes-vous plutôt Platon ou Aristote ?",
+  "phraseBravo": "Platon serait fier de vous. Aristote aussi… mais il voudrait d'abord vérifier.",
+  "slides": [
+    {
+      "type": "couverture",
+      "surtitre": "Un jour, une idée",
+      "titre": "Êtes-vous plutôt ==Platon== ou ==Aristote== ?",
+      "image": "images/platon-aristote.webp",
+      "imageDescription": "Platon et Aristote, détail de L'École d'Athènes de Raphaël",
+      "bandeau": "Le rêveur ou le terre-à-terre ?",
+      "imageRatio": 1.9493
+    },
+    {
+      "type": "idee",
+      "miseEnPage": "schema",
+      "surtitre": "1 · Le maître et l'élève",
+      "titre": "Vingt ans ==côte à côte==",
+      "blocs": [
+        {
+          "type": "texte",
+          "texte": "Aristote entre dans l'école de Platon à 17 ans. Il n'en partira qu'à la mort de son maître."
+        },
+        {
+          "type": "frise",
+          "etapes": [
+            {
+              "date": "Vers 387 av. J.-C.",
+              "texte": "Platon fonde l'Académie à Athènes."
+            },
+            {
+              "date": "367",
+              "texte": "Aristote devient son élève."
+            },
+            {
+              "date": "347",
+              "texte": "Mort de Platon. Aristote quitte l'Académie."
+            },
+            {
+              "date": "335",
+              "texte": "Il fonde sa propre école, le Lycée."
+            }
+          ]
+        },
+        {
+          "type": "citation",
+          "texte": "« Platon m'est cher, mais la vérité m'est plus chère. »",
+          "legende": "Formule que la tradition prête à Aristote"
+        }
+      ]
+    },
+    {
+      "type": "idee",
+      "miseEnPage": "schema",
+      "surtitre": "2 · Platon",
+      "titre": "La vérité est ==ailleurs==",
+      "blocs": [
+        {
+          "type": "texte",
+          "texte": "Pour Platon, il existe deux mondes."
+        },
+        {
+          "type": "flux",
+          "cases": [
+            {
+              "titre": "Le monde des Idées",
+              "texte": "Parfait, éternel. L'Idée de cheval ne vieillit jamais.",
+              "icone": "etoile"
+            },
+            {
+              "titre": "Le monde sensible",
+              "texte": "Ce que l'on voit. Les chevaux naissent, vieillissent, meurent.",
+              "icone": "oeil"
+            }
+          ],
+          "liens": [
+            "est imparfaitement copié par"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "idee",
+      "miseEnPage": "surlignage",
+      "surtitre": "3 · Aristote",
+      "titre": "La vérité est ==ici==",
+      "blocs": [
+        {
+          "type": "accroche",
+          "texte": "Pas besoin d'un autre monde : tout est sous nos yeux."
+        },
+        {
+          "type": "texte",
+          "texte": "Pour Aristote, la forme d'une chose n'existe pas à part : elle est ==dans la chose elle-même==."
+        },
+        {
+          "type": "texte",
+          "texte": "Pour connaître le monde, il faut donc ++l'observer++."
+        },
+        {
+          "type": "encart",
+          "titre": "Un des premiers naturalistes",
+          "texte": "Il classe des centaines d'espèces animales et suit, jour après jour, le développement d'un embryon de poulet.",
+          "couleur": "bleu"
+        }
+      ]
+    },
+    {
+      "type": "idee",
+      "miseEnPage": "surlignage",
+      "surtitre": "4 · Un geste qui résume tout",
+      "titre": "Le ciel ==ou== la terre",
+      "blocs": [
+        {
+          "type": "accroche",
+          "texte": "Un doigt vers le haut, une main vers le bas."
+        },
+        {
+          "type": "image",
+          "image": "images/platon-aristote.webp",
+          "imageDescription": "Platon montre le ciel, Aristote tend la main vers le sol, détail de L'École d'Athènes",
+          "imageRatio": 1.9493
+        },
+        {
+          "type": "texte",
+          "texte": "Vers 1510, Raphaël peint _L'École d'Athènes_. Platon pointe le ciel : ==le monde des Idées==. Aristote tend la main vers le sol : ++le monde réel++."
+        },
+        {
+          "type": "texte",
+          "texte": "En un geste, deux façons de chercher la vérité."
+        }
+      ]
+    },
+    {
+      "type": "idee",
+      "miseEnPage": "schema",
+      "surtitre": "5 · Et dans la cité ?",
+      "titre": "L'idéal ==ou== le possible",
+      "blocs": [
+        {
+          "type": "tableau",
+          "colonnes": [
+            {
+              "titre": "Platon",
+              "lignes": [
+                "Imagine une **cité idéale**, dans _La République_.",
+                "Confie le pouvoir aux **philosophes-rois**."
+              ]
+            },
+            {
+              "titre": "Aristote",
+              "lignes": [
+                "Aurait fait étudier les **constitutions de 158 cités**.",
+                "Cherche le **meilleur régime possible**, pas le parfait."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "retenir",
+      "texte": "Platon cherche la vérité ==au-delà== de ce que l'on voit. Aristote la cherche ==dans== ce que l'on voit.",
+      "complement": "Ce désaccord traverse toute l'histoire de la pensée : on le retrouve, 2 000 ans plus tard, entre rationalistes et empiristes.",
+      "lectures": [
+        "Platon, _La République_, livre VII",
+        "Aristote, _Éthique à Nicomaque_"
+      ],
+      "lien": {
+        "texte": "Lire l'article sur Les Grands Curieux",
+        "url": "https://lesgrandscurieux.fr"
+      }
+    }
+  ]
+}

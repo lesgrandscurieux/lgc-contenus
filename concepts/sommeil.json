@@ -1,0 +1,155 @@
+{
+  "id": "sommeil",
+  "date": "2026-11-05",
+  "rubrique": "Sciences",
+  "accroche": "Pourquoi dormons-nous ?",
+  "phraseBravo": "Vous pouvez faire la sieste l'esprit tranquille : c'est pour la science.",
+  "slides": [
+    {
+      "type": "couverture",
+      "surtitre": "Un jour, une idée",
+      "titre": "Pourquoi ==dormons==-nous ?",
+      "image": "images/sommeil.webp",
+      "imageDescription": "Un chaton gris endormi sur un oreiller, sous une lune et des étoiles",
+      "bandeau": "Ce que la science en sait (et ce qu'elle ignore encore)",
+      "imageRatio": 1.4336
+    },
+    {
+      "type": "idee",
+      "miseEnPage": "surlignage",
+      "surtitre": "1 · Un mystère tenace",
+      "titre": "Un tiers de ==notre vie==",
+      "blocs": [
+        {
+          "type": "accroche",
+          "texte": "Nous passons environ un tiers de notre vie à dormir."
+        },
+        {
+          "type": "texte",
+          "texte": "Pendant ce temps, on ne mange pas, on ne surveille pas les dangers. Pour un animal, c'est ==un vrai risque==."
+        },
+        {
+          "type": "texte",
+          "texte": "Pourtant, presque toutes les espèces étudiées dorment. Si l'évolution l'a gardé, c'est qu'il sert à ++quelque chose d'essentiel++."
+        }
+      ]
+    },
+    {
+      "type": "idee",
+      "miseEnPage": "schema",
+      "surtitre": "2 · Une nuit en cycles",
+      "titre": "Le sommeil a un ==rythme==",
+      "blocs": [
+        {
+          "type": "texte",
+          "texte": "Une nuit se découpe en 4 à 6 cycles d'environ 90 minutes. Chaque cycle enchaîne trois étapes."
+        },
+        {
+          "type": "flux",
+          "cases": [
+            {
+              "titre": "Sommeil léger",
+              "texte": "On s'endort, on se réveille encore facilement.",
+              "icone": "lune"
+            },
+            {
+              "titre": "Sommeil profond",
+              "texte": "Le corps récupère. Il est très difficile de nous réveiller.",
+              "icone": "coeur"
+            },
+            {
+              "titre": "Sommeil paradoxal",
+              "texte": "Le cerveau s'active, les yeux bougent, on rêve.",
+              "icone": "oeil"
+            }
+          ]
+        },
+        {
+          "type": "citation",
+          "texte": "« Paradoxal », car le cerveau s'agite alors que le corps est immobile. Le nom vient du Français Michel Jouvet, en 1959.",
+          "taille": "petite"
+        }
+      ]
+    },
+    {
+      "type": "idee",
+      "miseEnPage": "schema",
+      "surtitre": "3 · À quoi ça sert ?",
+      "titre": "Trois ==chantiers== de nuit",
+      "blocs": [
+        {
+          "type": "blocs",
+          "cases": [
+            {
+              "titre": "Réparer le corps",
+              "texte": "L'hormone de croissance est surtout libérée pendant le sommeil profond. Les défenses immunitaires en profitent aussi.",
+              "icone": "coeur"
+            },
+            {
+              "titre": "Trier les souvenirs",
+              "texte": "Le cerveau rejoue la journée et range ce qui mérite d'être retenu.",
+              "icone": "boite"
+            },
+            {
+              "titre": "Réguler les émotions",
+              "texte": "Après une mauvaise nuit, on réagit plus fort au stress.",
+              "icone": "sourire"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "idee",
+      "miseEnPage": "surlignage",
+      "surtitre": "4 · Sans sommeil",
+      "titre": "Comme un ==verre de trop==",
+      "blocs": [
+        {
+          "type": "accroche",
+          "texte": "Rester éveillé 24 heures, c'est comme conduire avec 1 g d'alcool par litre de sang."
+        },
+        {
+          "type": "texte",
+          "texte": "C'est ce qu'a mesuré une étude australienne en 1997 sur ==les temps de réaction==. La fatigue ne se voit pas toujours, mais elle ralentit le cerveau autant ++qu'un verre de trop++."
+        },
+        {
+          "type": "encart",
+          "titre": "Le record de Randy Gardner",
+          "texte": "En 1964, ce lycéen américain est resté éveillé 11 jours. À la fin, il avait du mal à parler et à se concentrer.",
+          "couleur": "lilas"
+        }
+      ]
+    },
+    {
+      "type": "idee",
+      "miseEnPage": "surlignage",
+      "surtitre": "5 · Ce qu'on ne sait pas",
+      "titre": "Une énigme ==ouverte==",
+      "blocs": [
+        {
+          "type": "accroche",
+          "texte": "Le sommeil sert à tout… et les chercheurs ne savent pas encore à quoi d'abord."
+        },
+        {
+          "type": "texte",
+          "texte": "Chaque piste explique une partie du mystère, ==aucune ne l'explique en entier==."
+        },
+        {
+          "type": "texte",
+          "texte": "Le chercheur américain Allan Rechtschaffen résumait ainsi : « Si le sommeil ne remplit pas une fonction absolument vitale, c'est la plus grande erreur que l'évolution ait jamais commise. »"
+        }
+      ]
+    },
+    {
+      "type": "retenir",
+      "texte": "Dormir n'est pas une pause : c'est un ==travail==. Le corps se répare, le cerveau fait le tri.",
+      "complement": "Mais la science n'a pas encore percé tous ses secrets.",
+      "lectures": [],
+      "lien": {
+        "texte": "Lire l'article sur Les Grands Curieux",
+        "url": "https://lesgrandscurieux.fr"
+      }
+    }
+  ]
+}

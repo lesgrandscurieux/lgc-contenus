@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "concepts": [
+    {
+      "id": "platon-aristote",
+      "date": "2026-11-04",
+      "rubrique": "Philosophie",
+      "accroche": "Êtes-vous plutôt Platon ou Aristote ?",
+      "image": "images/platon-aristote.webp",
+      "imageRatio": 1.9493
+    },
+    {
+      "id": "sommeil",
+      "date": "2026-11-05",
+      "rubrique": "Sciences",
+      "accroche": "Pourquoi dormons-nous ?",
+      "image": "images/sommeil.webp",
+      "imageRatio": 1.4336
+    }
+  ]
+}
